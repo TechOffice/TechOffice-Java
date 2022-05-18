@@ -9,6 +9,7 @@ Collection is a collector which group multiple element into a single unit.
 * SortedSet
 
 ## Set
+Unordered collection which duplicate element cannot be stored.
 
 * HashSet
 * TreeSet
@@ -29,3 +30,11 @@ It is a collection which is an ordered collection of objects
 ### Vector
 
 ## Map
+
+Key-value pair mapping for the data.
+
+## Queue
+
+## Dequeue
+
+## SortedSet
